@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#canvass{
+    
+    border-style: solid;
+    border-width: 3px;
+    border-color: aqua;    
+    
+}
